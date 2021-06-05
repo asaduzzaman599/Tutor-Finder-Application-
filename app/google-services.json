@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "190986808673",
+    "firebase_url": "https://tutorfinderapp-f3188.firebaseio.com",
+    "project_id": "tutorfinderapp-f3188",
+    "storage_bucket": "tutorfinderapp-f3188.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190986808673:android:a60cbf9eefef58b5462920",
+        "android_client_info": {
+          "package_name": "com.example.tutorfinderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190986808673-9tkuqonqe643d9m7pvrd5mvd9u64qf5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5EsaBYQwXFPxremfajIhefuFXJvphLPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190986808673-9tkuqonqe643d9m7pvrd5mvd9u64qf5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
